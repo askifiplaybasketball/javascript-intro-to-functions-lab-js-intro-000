@@ -12,13 +12,7 @@ function logWhisper(string) {
   console.log("hello");
 
 }
-function sayHiToGrandma(hello) {
+function sayHiToGrandma(string) {
     return ("I can't hear you!")
 
-  }
-function sayHiToGrandma(Hello){
-    return ("YES INDEED!")
-  }
-function sayHiToGrandma("I love you, Grandma"){
-  return ("I love you, too.")
 }
