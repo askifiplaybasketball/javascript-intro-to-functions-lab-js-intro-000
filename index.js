@@ -16,7 +16,7 @@ function sayHiToGrandma(string) {
   if ("hello") {
     return "I can't hear you!"
   // condition is false hence code is not executed
-} else if ("HELLO") { 
+} else if ("HELLO") {
   return "YES INDEED!"
   // execute this code if `conditionToTest1` statement is falsey AND `conditionToTest2` is truthy
 } else {"I love you, Grandma."
