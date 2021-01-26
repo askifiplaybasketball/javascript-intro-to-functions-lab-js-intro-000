@@ -13,10 +13,14 @@ function logWhisper(string) {
 
 }
 function sayHiToGrandma(string) {
-    if (.toUpperCase) {
-      return ("YES INDEED!")
-      // executed if `conditionToTest` is truthy
+  if ("hello") {
+    return "I can't hear you!"
+  // condition is false hence code is not executed
+} else if ("HELLO") { 
+  return "YES INDEED!"
+  // execute this code if `conditionToTest1` statement is falsey AND `conditionToTest2` is truthy
+} else {"I love you, Grandma."
+  // execute this code if none of the other conditions are met
+}
 
-      // executed if `conditionToTest` is falsey
-    }
 }
